@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE catalog SYSTEM "books.dtd">
+<catalog>
+   <book id="bk101">
+      <author>marcel proust</author>
+      <title>in search of lost time </title>
+      <genre>Fantasy</genre>
+      <price>14.95</price>
+   </book>
+   <book id="bk102">
+      <author>J.k Rowling</author>
+      <title>harrypotter and the deathly</title>
+      <genre>Sci fiction</genre>
+      <price>5.99</price>
+   </book>
+   <book id="bk103">
+      <author>Plato</author>
+      <title>The Republic</title>
+      <genre>history</genre>
+      <price>4.99</price>
+   </book>  
+</catalog>
